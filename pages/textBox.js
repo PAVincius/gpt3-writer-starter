@@ -4,7 +4,7 @@ function TextboxButton() {
   return (
     <div className="textbox-button">
       <input type="text" placeholder="enter text here" />
-      <a href="#" class="button-28">Generate</a>
+      <a href="#" className="button-28">Generate</a>
     </div>
   );
 }
